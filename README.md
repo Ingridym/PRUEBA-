@@ -1,2 +1,2 @@
 # Reto-Ciclo-3
-Creación de la plataforma Oracle DatabaseActions.
+Creacion de todos los retos, ciclo 3 MinTic.
